@@ -3,8 +3,8 @@
     "name": "PWA Manifest",  
     "description": "Mi primer proyecto PWA",
     "start_url": "index.html",  
-    "background_color": "#FFFFFF",  
-    "theme_color": "#FFFFFF",  
+    "background_color": "#0f0f0f",  
+    "theme_color": "#0f0f0f",  
     "orientation": "portrait",  
     "display": "fullscreen",
 
