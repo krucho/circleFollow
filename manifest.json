@@ -6,6 +6,7 @@
     "background_color": "#FFFFFF",  
     "theme_color": "#FFFFFF",  
     "orientation": "portrait",  
-    "display": "standalone",  
+    //"display": "standalone",
+    "display": "fullscreen",
 
   }
