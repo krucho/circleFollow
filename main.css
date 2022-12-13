@@ -2,8 +2,11 @@
 html {
   cursor: none; 
   background-color: black;
-  overscroll-behavior-y: contain;
-} 
+ } 
+
+body {
+    overscroll-behavior: contain;
+}
 
 #circularCursorS {
   background-color: blue;
