@@ -2,6 +2,7 @@
 html {
   cursor: none; 
   background-color: black;
+  overscroll-behavior-y: contain;
 } 
 
 #circularCursorS {
