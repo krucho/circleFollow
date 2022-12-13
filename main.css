@@ -1,0 +1,31 @@
+
+html {
+  cursor: none; 
+  background-color: black;
+} 
+
+#circularCursorS {
+  background-color: blue;
+  height:150px;
+  width:150px;
+  border-radius:50%;
+  -moz-border-radius:50%;
+  -webkit-border-radius:50%;
+  position: absolute;
+  z-index: 1;
+}
+
+
+#circularCursorB {
+  background-color: magenta;
+  opacity: 90%;
+  transition: background-color 750ms ease; /*ease-in-out  linear */
+  /*transition: .3s ease; //vuelve lento el movimiento de follow. */
+  height:250px;
+  width:250px;
+  border-radius:50%;
+  -moz-border-radius:50%;
+  -webkit-border-radius:50%;
+  position: absolute;
+  z-index: 1;
+}
